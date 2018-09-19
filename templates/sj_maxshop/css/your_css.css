@@ -1,0 +1,29 @@
+/*******************************************
+***          YT Framework: css          ***
+*******************************************/
+
+
+/* Medium devices Desktops  
+// ------------------*/
+@media (min-width: 980px) and (max-width: 1199px) {
+	.yt-carousel-image{
+		width: 430;
+		height: 870
+	}
+	.yt-carousel-links{
+		display: none
+	}
+	
+}
+
+/* Small devices Tablets	
+// ------------------*/
+@media (min-width: 768px) and (max-width: 979px) {
+	
+}
+
+/* Extra small devices Phones
+// ------------------*/
+@media (max-width: 767px){
+	
+}

@@ -1,0 +1,1 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";s:294:"<option   value="4">Laptop</option><option   value="7"> - Asus</option><option   value="6"> - Dell</option><option selected=\"selected\"  value="5"> - Lenovo</option><option   value="1">Smartphone & Tablets</option><option   value="3"> - iPhone</option><option   value="2"> - Tablet PC</option>";s:6:"output";s:0:"";}
